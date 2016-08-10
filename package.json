@@ -1,0 +1,34 @@
+{
+  "name": "zoholib",
+  "version": "1.0.0",
+  "description": "Node.js client library for Zoho",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandants/node-zoho.git"
+  },
+  "keywords": [
+    "zoho",
+    "node",
+    "crm",
+    "creator",
+    "crm",
+    "invoice",
+    "support"
+  ],
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikandants/node-zoho/issues"
+  },
+  "homepage": "https://github.com/manikandants/node-zoho#readme",
+  "devDependencies": {
+    "jscs": "3.0.7"
+  },
+  "dependencies": {
+    "qs": "^6.2.1"
+  }
+}
